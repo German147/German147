@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @German147, I'm 38. I live in Cordoba, Argentina. I speak english.
-- 👀 I’m interested in american football, soccer and tennis. I also like playing the guitar and flute.
 - 🌱 I’m currently learning JAVA, so I am looking for trainee job.
 - 💞️ I’m looking forward to collaborate on programming in Java.
 - 📫 How to reach me ...barreragerman27@gmail.com
