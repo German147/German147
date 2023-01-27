@@ -1,6 +1,6 @@
 - 👋Test Automation Engineer
 
-Now adays I have 2 years of experience in Software QA Automation and Quality Analysis; I have also worked with Web Mobile and API automation layers.
+I have experience in Software QA Automation and Quality Analysis; I have also worked with Web Mobile and API automation layers.
 
 • Main role on the projects like designing, documenting, executing and automating test cases.
 • Experience with Jenkins, REST API Automation tools Rest-assured, retrofit, TestNG, Selenium, Appium.
